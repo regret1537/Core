@@ -1,0 +1,3 @@
+super.img           SUPER                      super                   locl
+vbmeta.img          VBMETA                     vbmeta                  locl
+sdcard.img          SDCARD                     sdcard                  locl

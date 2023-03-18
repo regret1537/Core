@@ -1,0 +1,13 @@
+Disk nand: 1220703 sectors, 4.7 GiB
+Sector size (logical): 4096 bytes
+Disk identifier (GUID): 945BEB41-449E-402A-BA27-4D8B6EF22726
+Partition table holds up to 128 entries
+Main partition table begins at sector 2 and ends at sector 5
+First usable sector is 6, last usable sector is 1220697
+Partitions will be aligned on 256-sector boundaries
+Total free space is 422740 sectors (1.6 GiB)
+
+Number  Start (sector)    End (sector)  Size       Code  Name
+   1             256             511   1024.0 KiB  0700  vbmeta
+   2             512          794111   3.0 GiB     0700  super
+   3          794112          798207   16.0 MiB    0700  sdcard
